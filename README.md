@@ -1,5 +1,5 @@
 # Live Project 
-👉https://covid-tracker-9f32a.web.app/
+👉 https://covid-tracker-9f32a.web.app/
 
 
 ## Available Scripts
